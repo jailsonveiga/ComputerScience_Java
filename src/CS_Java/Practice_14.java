@@ -1,5 +1,7 @@
 package CS_Java;
 
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 
 public class Practice_14 {
