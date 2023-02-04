@@ -29,6 +29,5 @@ public class Str {
 
         System.out.println(name.length());
 
-
     }
 }
