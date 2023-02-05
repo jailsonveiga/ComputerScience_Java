@@ -23,6 +23,11 @@ public class Main {
       obj1.add();
       obj1.add(10,30);
 
+      System.out.println("--------------------");
+
+      OperOver obj2 = new OperOver();
+      obj2.add();
+
 
 
     }
