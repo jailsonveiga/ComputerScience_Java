@@ -5,13 +5,13 @@ public class SuperClass {
     int age = 25;
     String name = "jay";
 
-    SuperClass() {
+    public SuperClass() {
 
         System.out.println("Using a Super Keyword");
 
     }
 
-    void displayParentClass() {
+    public void displayParentClass() {
 
         System.out.println("My name is " + name + " and I'm " + age + " years old");
 
