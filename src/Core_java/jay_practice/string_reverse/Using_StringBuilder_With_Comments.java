@@ -1,7 +1,7 @@
 package Core_java.jay_practice.string_reverse;
 
 // Name of the Java class
-public class Using_StringBuilder {
+public class Using_StringBuilder_With_Comments {
 
     // Java Main method is the starting point of the java programing
     public static void main(String[] args) {
